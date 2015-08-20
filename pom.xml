@@ -10,8 +10,4 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-  <modules>
-    <module>spark</module>
-    <module>kafka</module>
-  </modules>
 </project>
